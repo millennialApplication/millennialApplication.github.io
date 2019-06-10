@@ -81,7 +81,7 @@
     "application.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
-        "title": "Application",
+        "title": "Millennial Application",
         "order": 1
       },
       "components": [
